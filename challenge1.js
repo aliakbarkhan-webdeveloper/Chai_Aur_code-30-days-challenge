@@ -33,7 +33,7 @@
 // a=9
 // console.log(a);
 
-//Activity 5: Const variable: reassign a value
+// Activity 5: Const variable: reassign a value
 // const a=9;
 // a=8
 // console.log(a);
