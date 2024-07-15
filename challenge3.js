@@ -111,5 +111,12 @@ bigNum(15, 29, 7);
 //Activity 4: ternary operator
 
 //Task: even of odd                        if num%2=0 then it is false bcz false=o , if result 1 then it is means it is true bcz true=1
-let num = 7;
-num % 2 ? console.log("odd") : console.log("even");
+// let num = 7;
+// num % 2 ? console.log("odd") : console.log("even");
+
+
+
+//Activity 5: combining conditionlas
+
+//task : leap year?
+
