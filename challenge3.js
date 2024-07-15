@@ -47,3 +47,6 @@ function bigNum(num1, num2, num3) {
 bigNum(15, 29, 7);
 */
 
+
+//Activity 3: Switch Case
+
