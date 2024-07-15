@@ -24,3 +24,26 @@
 //   }
 // }
 // vote(18);*/
+
+/*
+//Activity 2: Nested ifElse
+
+//task 1: find the largest number among three numbers
+function bigNum(num1, num2, num3) {
+  if (num1 > num2) {
+    if (num3 > num1) {
+      console.log(`number ${num3} is greater`);
+    } else {
+      console.log(`number ${num1} is greater`);
+    }
+  } else {
+    if (num3 > num2) {
+        console.log(`number ${num3} is greater`);
+      } else {
+        console.log(`number ${num2} is greater`);
+      }
+  }
+}
+bigNum(15, 29, 7);
+*/
+
