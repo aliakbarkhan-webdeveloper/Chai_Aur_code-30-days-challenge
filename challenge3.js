@@ -79,3 +79,31 @@ bigNum(15, 29, 7);
 //     console.log("please choose the Right day");
 //     break;
 // }
+
+//Task 2: Grade System based of score
+let score = 90;
+let A = score >= 90 && score <= 100;
+let B = score >= 75 && score <= 89;
+let C = score <= 74 && score >= 60;
+let D = score >= 50 && score <= 59;
+let F = score <= 49;
+switch (score) {
+  case A:
+    console.log("A grade");
+    break;
+  case B:
+    console.log("B grade");
+    break;
+  case C:
+    console.log("B grade");
+    break;
+  case D:
+    console.log("B grade");
+    break;
+  case F:
+    console.log("B grade");
+    break;
+  default:
+    console.log("choose less of equal to 100");
+    break;
+}
