@@ -123,7 +123,6 @@ reminder(10,2);
   
 //   logic(false)*/
 
-
 // Activity 5: ternary operator to check +ve number
 
 function ternary(num1) {
@@ -131,4 +130,3 @@ function ternary(num1) {
 }
 
 console.log(ternary(-5));
-
