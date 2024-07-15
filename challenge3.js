@@ -81,13 +81,13 @@ bigNum(15, 29, 7);
 // }
 
 //Task 2: Grade System based of score
-// let score = 1;
+// let score = 100;
 // let A = score >= 90 && score <= 100;
 // let B = score >= 75 && score <= 89;
 // let C = score <= 74 && score >= 60;
 // let D = score >= 50 && score <= 59;
 // let F = score <= 49;
-// switch (score) {
+// switch (true) {
 //   case A:
 //     console.log("A grade");
 //     break;
@@ -114,9 +114,23 @@ bigNum(15, 29, 7);
 // let num = 7;
 // num % 2 ? console.log("odd") : console.log("even");
 
-
-
 //Activity 5: combining conditionlas
 
-//task : leap year?
-
+//task : leap yea
+// let year = 160000000000000000000000;
+// console.log(LeapYear(year));
+// function LeapYear(year) {
+//   if (year % 4 === 0) {
+//     if (year % 100 === 0) {
+//       if (year % 400 === 0) {
+//         return true;
+//       } else {
+//         return false;
+//       }
+//     } else {
+//       return false;
+//     }
+//   } else {
+//     return false;
+//   }
+// }
