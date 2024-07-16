@@ -7,3 +7,13 @@
 // count++;
 // }
 // console.log(num);
+
+
+
+//Task 2: print number from 10-1
+let count=10;
+while (count>0) {
+    console.log(count);
+   
+    count--
+}
