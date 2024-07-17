@@ -15,3 +15,14 @@
 //  }
 //     console.log(i);
 // }
+
+
+
+//Task 3: program should be to print print 1-10 but it breaks when index is number 7
+
+// for (let index = 1; index < 11; index++) {
+//     if (index===7) {
+//         break
+//     }
+// console.log(index);
+// }
