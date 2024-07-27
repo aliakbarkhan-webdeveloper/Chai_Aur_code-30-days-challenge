@@ -1,8 +1,14 @@
-
-let ob = {
-  name: "ali",
+//task 8 & 9
+let title = "name";
+let age = 24;
+let obj = {
+  age,
+  [title]: "ali",
+  log() {
+    console.log(this.name);
+  },
 };
 
-let obj = Object.assign(ob, { age: "15" });
-
 console.log(obj);
+
+
