@@ -5,7 +5,7 @@ console.log(`My name is ${name} and i am ${age} year old`);
 console.log(`
     `);
 //Task 2
-console.log(`Multi-line string:
+console.log(`Multiline string:
 This string is created with literal
 this is line 2
 this is line 3

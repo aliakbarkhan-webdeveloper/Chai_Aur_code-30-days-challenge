@@ -4,10 +4,12 @@ let [index_0, index_1, index_2, index_3, index_4] = arr;
 console.log(index_0, index_1);
 
 //Task 4
+let obj = {
+  title: "book",
+  Author: "ali",
+};
 
-function rest(a, b, c, d, e) {
-  return a + b + c + d + e;
-}
+let { title, Author } = obj;
 
-let result = rest(...arr);
-console.log(result);
+console.log(title);
+console.log(Author);
